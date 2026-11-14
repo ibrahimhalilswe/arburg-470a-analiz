@@ -14,7 +14,7 @@
 | LAB 1 | Safety Function Map | [01-safety-function-map.md](01-safety-function-map.md) | EP 03 | Taslak |
 | LAB 2 | Envanter + Zone / Conduit Diagram | [02-envanter-zone-conduit.md](02-envanter-zone-conduit.md) | EP 01, EP 05 | Taslak |
 | LAB 3 | Risk Register | [03-risk-register.md](03-risk-register.md) | EP 04 | Taslak |
-| LAB 4 | Secure Architecture | — | EP 02, EP 06 | Yok |
+| LAB 4 | Secure Architecture | [04-secure-architecture.md](04-secure-architecture.md) | EP 02, EP 06 | Taslak |
 | LAB 5 | Vulnerability Decision | — | EP 09–11 | Yok |
 | LAB 6 | Incident Workflow | — | EP 13 | Yok |
 | LAB 7 | AI Fail-Safe Decision | — | EP 03, EP 15 | Yok |
