@@ -15,7 +15,7 @@
 | LAB 2 | Envanter + Zone / Conduit Diagram | [02-envanter-zone-conduit.md](02-envanter-zone-conduit.md) | EP 01, EP 05 | Taslak |
 | LAB 3 | Risk Register | [03-risk-register.md](03-risk-register.md) | EP 04 | Taslak |
 | LAB 4 | Secure Architecture | [04-secure-architecture.md](04-secure-architecture.md) | EP 02, EP 06 | Taslak |
-| LAB 5 | Vulnerability Decision | — | EP 09–11 | Yok |
+| LAB 5 | Vulnerability Decision | [05-sbom-cve-patch.md](05-sbom-cve-patch.md) | EP 08–11 | Taslak |
 | LAB 6 | Incident Workflow | — | EP 13 | Yok |
 | LAB 7 | AI Fail-Safe Decision | — | EP 03, EP 15 | Yok |
 
