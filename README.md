@@ -17,6 +17,6 @@
 | LAB 4 | Secure Architecture | [04-secure-architecture.md](04-secure-architecture.md) | EP 02, EP 06 | Taslak |
 | LAB 5 | Vulnerability Decision | [05-sbom-cve-patch.md](05-sbom-cve-patch.md) | EP 08–11 | Taslak |
 | LAB 6 | Incident Workflow | [06-incident-workflow.md](06-incident-workflow.md) | EP 13 | Taslak |
-| LAB 7 | AI Fail-Safe Decision | — | EP 03, EP 15 | Yok |
+| LAB 7 | AI Fail-Safe Decision | [07-ai-fail-safe.md](07-ai-fail-safe.md) | EP 03, EP 15 | Taslak |
 
 Kaynaklar ve doğrulama notları: [kaynaklar.md](kaynaklar.md)

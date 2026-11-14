@@ -56,9 +56,11 @@ Fırsatçı dış saldırgan, internete açık bir ofis sunucusundan girip ALS s
 | 4 | R-02 | Meraklı içeriden | SF-02, SF-05 | Z3 (HMI) | 6 Orta | | Kişisel GESTICA hesapları, ısıtma sınırlarına yetki seviyesi | Bakım şefi | Sonraki bakım |
 | 5 | R-03 | Tedarik zinciri | SF-04 | C4 | 3 Düşük | 🚩 | Sadece imzalı güncelleme kabul et, servis dizüstüsünü tara, USB kayıt altında | OT sorumlusu | Sonraki bakım |
 
+> **Ek:** LAB 7'de YZ süreç pilotuna ait **R-06** senaryosu eklendi (6 Orta 🚩). Ayrıntılar [07-ai-fail-safe.md](07-ai-fail-safe.md) dosyasında.
+
 ### S3 bayraklı liste (yönetime ayrıca raporlanır)
 
-R-01 (18) · R-04 (6) · **R-03 (3)**
+R-01 (18) · R-04 (6) · R-06 (6) · **R-03 (3)**
 
 R-03'ün skoru 3, yani "Düşük". Ama sonunda yine bir insan ağır yaralanıyor. **S3 kuralı** gereği skordan bağımsız olarak görünür kalır ve en az bir önlem ya da yazılı kabul kararı olmadan kapatılmaz.
 
